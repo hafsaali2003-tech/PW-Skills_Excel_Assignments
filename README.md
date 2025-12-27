@@ -1,6 +1,6 @@
 # PW Skills_Excel_Assignments
 ## Project Overview
-This Repository has PW Skills Excel's Assignments which I completed as part of my PW Skills Data Analytics Course , it includes all the basics to advanced level functions which are required to be learned and then implemented while cleaning, manipulating and analyzing data in Excel.
+This Repository has PW Skills Excel's Assignments which I completed as a part of my PW Skills Data Analytics Course , it includes all the basics to advanced level functions which are required to be learned and then implemented while cleaning, manipulating and analyzing data in Excel.
 ## Tools & Technologies Used
 1 . Microsoft Excel
 
@@ -9,7 +9,7 @@ This Repository has PW Skills Excel's Assignments which I completed as part of m
 ### Text Functions   
 - `LEN` , `SEARCH` , `LEFT` `RIGHT` and other commonly used **text** **functions**.
 ### Logical & Lookup Functions 
-- `IF` , `AND` , `VLOOKUP` , `XLOOKUP` , `HLOOKUP` , `AVERAGEIF` and other commonly used **Logical Functions**.
+- `IF` , `AND` , `VLOOKUP` , `XLOOKUP` , `HLOOKUP` , `AVERAGEIF` and other commonly used Functions.
 ### Pivot Tables
 - Developed a strong understanding of how to summarize large datasets into pivot tables.
 - Filtered and Sorted Pivot Tables to drive meaningful insights.
@@ -17,7 +17,7 @@ This Repository has PW Skills Excel's Assignments which I completed as part of m
 - Developed strong understanding about how to control and restrict the data input using validation rules like how to prevent incorrect and inconsistent data entry.
 ### Data Cleaning
 - Gained hands on experience in Excel about how to remove errors , duplicates and inconsistencies from the data.
-- **Key Data Cleaning Steps**
+**Key Data Cleaning Steps**
 - Duplicate Removal
 - Text to Column ( Basically this is used to separate data in different columns for better understanding of the dataset )
 - Flash Fills
@@ -34,7 +34,9 @@ This Repository has PW Skills Excel's Assignments which I completed as part of m
 - Open the Excel's Assignments file in Microsoft Excel ( Microsoft Excel is recommended for better functionality).
  ## Author
  **Hafsa Ali**
+ 
  Aspiring Data Analyst
+ 
  Github: <https://github.com/hafsaali2003-tech>
  ## License
  - This Repository is for learning and practice purpose only.
