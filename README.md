@@ -9,7 +9,7 @@ This Repository has PW Skills Excel's Assignments which I completed as part of m
 ### Text Functions   
 - `LEN` , `SEARCH` , `LEFT` `RIGHT` and other commonly used **text** **functions**.
 ### Logical & Lookup Functions 
-- `IF` , `AND` , `VLOOKUP` , `XLOOKUP` , `HLOOKUP` , `AVERAGEIF` and other commonly used **Logical** **Functions**.
+- `IF` , `AND` , `VLOOKUP` , `XLOOKUP` , `HLOOKUP` , `AVERAGEIF` and other commonly used **Logical Functions**.
 ### Pivot Tables
 - Developed a strong understanding of how to summarize large datasets into pivot tables.
 - Filtered and Sorted Pivot Tables to drive meaningful insights.
@@ -24,12 +24,16 @@ This Repository has PW Skills Excel's Assignments which I completed as part of m
 ### Advanced Data Visualization 
 - Created a DashBoard, after validating and cleaning the data and then summarizing it afterwards with the help of pivot table.
 - Designed interactive DashBoards to present the data insights which we derived in a clear and simple to understand way.
-- Implemented appropriate **Column** **Charts** , **Timeline** (**Slicer**) , and many other interactive **Pivot** **Charts** in order to visualize , understand and make comparsions and also distributions.
+- Implemented appropriate **Column Charts** , **Timeline** (**Slicer**) , and many other interactive **Pivot Charts** in order to visualize , understand and make comparsions and also distributions.
 ## Assignment Tasks
 - Solved Daily Practice Problems and Scenario Based Questions where I was required to use the above mentioned Functions and everthing else which I have learned in Excel.
 - Gained hands on experience in Data Cleaning , Data Validation , Analysing and Visualizing the Data.
 ## How to Use
-- ###Clone this Repository
-- git clone <
+- ### Clone this Repository
+- git clone <https://github.com/hafsaali2003-tech/pwskills-excel-assignments.git>
 - Open the Excel's Assignments file in Microsoft Excel ( Microsoft Excel is recommended for better functionality).
+ ## Author
+ **Hafsa Ali**
+ Aspiring Data Analyst
+ Github: 
 
