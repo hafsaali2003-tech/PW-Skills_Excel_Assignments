@@ -35,5 +35,7 @@ This Repository has PW Skills Excel's Assignments which I completed as part of m
  ## Author
  **Hafsa Ali**
  Aspiring Data Analyst
- Github: 
+ Github: <https://github.com/hafsaali2003-tech>
+ ## License
+ - This Repository is for learning and practice purpose only.
 
